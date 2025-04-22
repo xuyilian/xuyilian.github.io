@@ -20,7 +20,7 @@ Research projects
 
 Although flapping‑wing aerial vehicles have achieved considerable progress by emulating birds, insects, and other flyers—often incorporating compliant thoracic structures for energy‑efficient wing actuation—butterfly‑inspired robots remain uncommon and typically ignore the natural role of abdominal movement in flight stabilization, instead relying on rigid linkages that increase complexity and weight. This paper therefore presents a biomimetic robotic butterfly (BRB) integrating a novel compliant mechanism to achieve coupled wing‑abdomen motion, develops a dynamic model to analyze how abdominal undulation affects flapping patterns and average lift, and validates these findings through motion‑capture experiments on three configurations (no abdomen, fixed abdomen, undulating abdomen), demonstrating that undulation increases lift generation by 3.4%, extends flight duration, enhances forward distance, and stabilizes pitch oscillations, thereby highlighting the critical importance of wing‑abdomen interaction for improved flight performance in FWAVs.
 
-<img src="/images/ab.png" style="width: 80%; height: auto;" />
+<img src="/images/ab.png" style="width: 85%; height: auto;" />
 
 
 ------
@@ -34,7 +34,7 @@ Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yo
 
 Current research on attitude and state estimation for flapping‑wing aerial vehicles has largely relied on conventional filters—such as Extended Kalman Filters, Mahony complementary filters, and Madgwick filters—that either suffer degraded performance under the high‑frequency vibrations induced by wing flapping or mitigate these oscillations through cycle‑averaging methods that introduce unacceptable delays for agile maneuvers. This paper therefore presents a novel learning‑based framework for online state estimation in avian‑inspired FWAVs: it first extracts and removes flapping‑induced oscillations from low‑cost MARG sensor data via periodic Gaussian process regression augmented with real‑time FFT and cross‑correlation for accurate phase alignment and sphere k‑means clustering for phase‑based smoothing; it then feeds the resulting oscillation‑free signals into an Extended Kalman Filter together with an internal, cycle‑averaged aerodynamic model derived from Newton–Euler equations to yield accurate, low‑latency attitude and translational estimates; real‑flight experiments under windy conditions demonstrate that this approach significantly outperforms conventional filters by preserving critical transient dynamics and enabling agile, autonomous flapping‑wing flight in complex environments. 
 
-<img src="/images/PPIR.png" style="width: 80%; height: auto;" />
+<img src="/images/PPIR.png" style="width: 85%; height: auto;" />
 
 
 ------
@@ -64,37 +64,3 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 </div>  
 
 **In Preparation**
-
-------
-G
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
