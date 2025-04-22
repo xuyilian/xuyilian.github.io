@@ -23,7 +23,7 @@ Although flapping‑wing aerial vehicles have achieved considerable progress by 
 <img src="/images/ab.png" style="width: 100%; height: auto;" />
 
 
-------
+  <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 <div style="font-size: 20px;">
   <strong>Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation</strong>
 </div>  
@@ -37,7 +37,7 @@ Current research on attitude and state estimation for flapping‑wing aerial veh
 <img src="/images/PPIR.png" style="width: 100%; height: auto;" />
 
 
-------
+  <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 <div style="font-size: 20px;">
   <strong>Small-scale Underactuated Flapping Wing Robot Perching with Woodpecker-like Claw</strong>
 </div>  
@@ -45,10 +45,8 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 
 **In Preparation**  
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="/images/Overview-1.png" style="width: 100%; height: auto;" />
-  <img src="/images/PPIR.png" style="width: 100%; height: auto;" />
-</div>
+  <img src="/images/Overview-1.png" style="width: 35%; height: auto;" />
+  <img src="/images/Kinematic-1.png" style="width: 60%; height: auto;" />
 
 
   <hr style="border: 1px solid #ccc; margin: 20px 0;" />
@@ -61,7 +59,7 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 
 **In Preparation**
 
-------
+  <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 <div style="font-size: 20px;">
   <strong>Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion</strong>
 </div>  
