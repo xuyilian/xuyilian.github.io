@@ -49,7 +49,7 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 <img src="/images/Kinematic-1.png" style="float: left; width: 60%; height: auto;" />
 
 
-------
+<hr>
 
 
 <div style="font-size: 20px;">
