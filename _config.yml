@@ -29,20 +29,16 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am currently pursuing the B.S. degree
 in aircraft design and engineering with a specialization in aircraft information and electronics from Zhejiang University, Hangzhou, China.
-My research interests include flapping-wing robots, soft robotics, and control systems.r"
+My research interests include flapping-wing robots, soft robotics, and control systems."
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
   email            : "liam.lianxy@zju.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
