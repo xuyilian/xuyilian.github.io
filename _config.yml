@@ -17,7 +17,7 @@ in aircraft design and engineering with a specialization in aircraft information
 My research interests include flapping-wing robots, soft robotics, and control systems."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://xuyilian.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuyilian.github.io"
+repository               : 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -45,7 +45,7 @@ My research interests include flapping-wing robots, soft robotics, and control s
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
