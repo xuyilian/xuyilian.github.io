@@ -10,7 +10,7 @@ redirect_from:
 
 Research projects
 -----
-**Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly**\\
+<h1>Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly</h1>\\
 **Xuyi Lian†**, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
 [Arxiv](https://arxiv.org/pdf/2503.06516)|[Video](https://www.youtube.com/watch?v=68d5d4W_XB4)                                                     **IROS 2025 Under Review**\\
 • Aimed to develop a biomimetic robotic butterfly with a compliant mechanism that couples abdominal undulation and wing motion, enhancing overall flight performance, stability, and efficiency.\\
@@ -19,9 +19,9 @@ Research projects
 • Performed theoretical dynamic modeling which revealed that the flexible hinges increase flapping frequency by 16.85%, while abdominal undulation enhances average lift by approximately 3.4% and amplifies pitch oscillation amplitude.\\
 • Validated the design through motion capture experiments, demonstrating a 10-meter flight distance and a 4-second flight duration, along with significant improvements in stability and efficiency.
 
-**Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation**\\
+<h1>Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation</h1>\\
 Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li\\
-[Arxiv]|[Video]          **IEEE Transaction on Industrial on Electronics**\\
+[Arxiv]|[Video]          **IEEE Transaction on Industrial Electronics Under Review**\\
 
 
 
