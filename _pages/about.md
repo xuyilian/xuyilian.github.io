@@ -15,33 +15,43 @@ Research projects
 <div style="font-size: 20px;">
   <strong>Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly</strong>
 </div>  
-**Xuyi Lian†**, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
-[Arxiv](https://arxiv.org/pdf/2503.06516)|[Video](https://www.youtube.com/watch?v=68d5d4W_XB4)                                                     **IROS 2025 Under Review**\\
-• Aimed to develop a biomimetic robotic butterfly with a compliant mechanism that couples abdominal undulation and wing motion, enhancing overall flight performance, stability, and efficiency.\\
-• Designed a flapping wing mechanism using a 3D-printed rigid PLA skeleton and flexible TPU hinges to mimic the muscle contractiondriven wing flapping of a real butterfly.\\
-• Integrated an abdominal undulation mechanism with a TPU pivot, carbon fiber rod, and PLA rings that undulates in counter-phase to the wing motion, simulating natural butterfly abdominal movement.\\
-• Performed theoretical dynamic modeling which revealed that the flexible hinges increase flapping frequency by 16.85%, while abdominal undulation enhances average lift by approximately 3.4% and amplifies pitch oscillation amplitude.\\
-• Validated the design through motion capture experiments, demonstrating a 10-meter flight distance and a 4-second flight duration, along with significant improvements in stability and efficiency.
+
+**Xuyi Lian†**, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆  
+
+[Arxiv](https://arxiv.org/pdf/2503.06516)|[Video](https://www.youtube.com/watch?v=68d5d4W_XB4)                                                     **IROS 2025 Under Review**  
+
+This work presents the design, modeling, and experimental validation of a biomimetic robotic butterfly (BRB) that integrates a compliant mechanism to achieve coupled wing-abdomen motion, inspired by the natural flight dynamics of butterflies. The study emphasizes the importance of abdominal undulation in enhancing flight performance, particularly in terms of lift generation, flight duration, and pitch stability. A theoretical model was developed to investigate the impact of abdominal undulation on flight dynamics, and motion capture experiments were conducted with three configurations: a BRB without an abdomen, a BRB with a fixed abdomen, and a BRB with abdominal undulation. The experimental results demonstrated that abdominal undulation improves overall flight performance, achieving a longer forward distance and a more stable flight compared to the other configurations. The BRB with abdominal undulation achieved a forward distance of 10 meters, while the other configurations only reached 5 meters and 8 meters, respectively. The average lift was also increased by 3.4% with abdominal motion, which further validated the positive effects of abdominal undulation. The paper concludes that abdominal undulation plays a crucial role in improving flight efficiency, stabilizing pitch oscillations, and increasing lift, offering valuable insights for future advancements in energy-efficient biomimetic flight designs for flapping-wing aerial vehicles (FWAVs).
 
 ![ab](/images/ab.png)
-------
 
-**Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation**\\
+
+------
+<div style="font-size: 20px;">
+  <strong>Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation</strong>
+</div>  
 Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li\\
-[Arxiv]|[Video]          **IEEE Transaction on Industrial Electronics Under Review**\\
+[Arxiv]|[Video]          **IEEE Transaction on Industrial Electronics Under Review**  
+
 
 ------
+<div style="font-size: 20px;">
+  <strong>Small-scale Underactuated Flapping Wing Robot Perching with Woodpecker-like Claw</strong>
+</div>  
 
-**Small-scale Underactuated Flapping Wing Robot Perching with Woodpecker-like Claw**\\
 **In Preparation**
 
 ------
+<div style="font-size: 20px;">
+  <strong>Concurrent Detection of Vibrations in a Crawling Spider-Inspired Quadruped Robot Utilizing Optical Fiber Sensors</strong>
+</div>  
 
-**Concurrent Detection of Vibrations in a Crawling Spider-Inspired Quadruped Robot Utilizing Optical Fiber Sensors**\\
 **In Preparation**
 
 ------
-**Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion Getting started**\\
+<div style="font-size: 20px;">
+  <strong>Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion Getting started</strong>
+</div>  
+
 **In Preparation**
 
 ------
