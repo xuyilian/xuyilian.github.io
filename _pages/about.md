@@ -21,7 +21,7 @@ Research projects
 • Performed theoretical dynamic modeling which revealed that the flexible hinges increase flapping frequency by 16.85%, while abdominal undulation enhances average lift by approximately 3.4% and amplifies pitch oscillation amplitude.\\
 • Validated the design through motion capture experiments, demonstrating a 10-meter flight distance and a 4-second flight duration, along with significant improvements in stability and efficiency.
 
-[ab](/images/ab.pdf)
+<embed src="/images/ab.pdf" type="application/pdf" width="100%" height="600px" />
 ------
 
 **Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation**\\
