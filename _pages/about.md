@@ -49,8 +49,9 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 <img src="/images/Kinematic-1.png" style="float: left; width: 60%; height: auto;" />
 
 
-
 ------
+
+
 <div style="font-size: 20px;">
   <strong>Concurrent Detection of Vibrations in a Crawling Spider-Inspired Quadruped Robot Utilizing Optical Fiber Sensors</strong>
 </div>  
