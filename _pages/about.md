@@ -7,14 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 Research projects
 -----
 **Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly**\\
 Xuyi Lian†, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
 [Arxiv](https://arxiv.org/pdf/2503.06516)|[Video]\\
-**IROS2025 Under Review**
+**IROS2025 Under Review**\\
+• Aimed to develop a biomimetic robotic butterfly with a compliant mechanism that couples abdominal
+undulation and wing motion, enhancing overall flight performance, stability, and efficiency.
+• Designed a flapping wing mechanism using a 3D-printed rigid PLA skeleton and flexible TPU
+hinges to mimic the muscle contractiondriven wing flapping of a real butterfly.
+• Integrated an abdominal undulation mechanism with a TPU pivot, carbon fiber rod, and PLA rings that
+undulates in counter-phase to the wing motion, simulating natural butterfly abdominal movement.
+• Performed theoretical dynamic modeling which revealed that the flexible hinges increase flapping
+frequency by 16.85%, while abdominal undulation enhances average lift by approximately
+3.4% and amplifies pitch oscillation amplitude.
+• Validated the design through motion capture experiments, demonstrating a 10-meter flight distance
+and a 4-second flight duration, along with significant improvements in stability and efficiency\\
 -----
 
 Getting started
