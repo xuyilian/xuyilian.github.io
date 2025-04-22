@@ -13,9 +13,9 @@ Research projects
 ------
 
 <div style="font-size: 20px;">
-  Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly\\
-</div>
-  **Xuyi Lian†**, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
+  **Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly**  
+</div>  
+**Xuyi Lian†**, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
 [Arxiv](https://arxiv.org/pdf/2503.06516)|[Video](https://www.youtube.com/watch?v=68d5d4W_XB4)                                                     **IROS 2025 Under Review**\\
 • Aimed to develop a biomimetic robotic butterfly with a compliant mechanism that couples abdominal undulation and wing motion, enhancing overall flight performance, stability, and efficiency.\\
 • Designed a flapping wing mechanism using a 3D-printed rigid PLA skeleton and flexible TPU hinges to mimic the muscle contractiondriven wing flapping of a real butterfly.\\
