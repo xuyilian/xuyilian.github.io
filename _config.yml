@@ -15,7 +15,7 @@ name                     : &name "Xuyi Lian"
 description              : &description "I am currently pursuing the B.S. degree
 in aircraft design and engineering with a specialization in aircraft information and electronics from Zhejiang University, Hangzhou, China.
 My research interests include flapping-wing robots, soft robotics, and control systems."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://xuyilian.github.io"
+url                      : "https://xuyilian.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 
