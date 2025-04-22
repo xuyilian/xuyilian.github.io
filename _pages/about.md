@@ -11,13 +11,17 @@ redirect_from:
 Research projects
 -----
 **Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly**\\
-Xuyi Lian†, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
-[Arxiv](https://arxiv.org/pdf/2503.06516)|[Video](https://www.youtube.com/watch?v=68d5d4W_XB4)                                       **IROS2025 Under Review**\\
+**Xuyi Lian†**, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
+[Arxiv](https://arxiv.org/pdf/2503.06516)|[Video](https://www.youtube.com/watch?v=68d5d4W_XB4)                                                     **IROS 2025 Under Review**\\
 • Aimed to develop a biomimetic robotic butterfly with a compliant mechanism that couples abdominal undulation and wing motion, enhancing overall flight performance, stability, and efficiency.\\
 • Designed a flapping wing mechanism using a 3D-printed rigid PLA skeleton and flexible TPU hinges to mimic the muscle contractiondriven wing flapping of a real butterfly.\\
 • Integrated an abdominal undulation mechanism with a TPU pivot, carbon fiber rod, and PLA rings that undulates in counter-phase to the wing motion, simulating natural butterfly abdominal movement.\\
 • Performed theoretical dynamic modeling which revealed that the flexible hinges increase flapping frequency by 16.85%, while abdominal undulation enhances average lift by approximately 3.4% and amplifies pitch oscillation amplitude.\\
 • Validated the design through motion capture experiments, demonstrating a 10-meter flight distance and a 4-second flight duration, along with significant improvements in stability and efficiency.
+
+**Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation**\\
+Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li\\
+[Arxiv]|[Video]          **IEEE Transaction on Industrial on Electronics**\\
 
 
 
