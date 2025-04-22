@@ -45,11 +45,14 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 
 **In Preparation**  
 
-<img src="/images/Overview-1.png" style="float: left; width: 33%; margin-right: 10px; margin-bottom: 20px;" />
-<img src="/images/Kinematic-1.png" style="float: left; width: 55%; height: auto;margin-bottom: 20px; " />
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <img src="/images/Overview-1.png" style="width: 100%; height: auto;" />
+  <img src="/images/PPIR.png" style="width: 100%; height: auto;" />
+</div>
 
 
-<hr>
+------
+
 
 
 <div style="font-size: 20px;">
