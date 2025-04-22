@@ -27,11 +27,13 @@ author:
   avatar           : "profile.png"
   name             : "Xuyi Lian"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am currently pursuing the B.S. degree
+in aircraft design and engineering with a specialization in aircraft information and electronics from Zhejiang University, Hangzhou, China.
+My research interests include flapping-wing robots, soft robotics, and control systems.r"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liam.lianxy@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -52,7 +54,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -249,15 +251,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
   # _publications
   - scope:
       path: ""
@@ -267,23 +261,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
+
 
 
 # Sass/SCSS
