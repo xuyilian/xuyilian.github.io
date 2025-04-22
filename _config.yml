@@ -13,8 +13,7 @@ title                    : "Liam's Homepage"
 title_separator          : "-"
 name                     : &name "Xuyi Lian"
 description              : &description "I am currently pursuing the B.S. degree
-in aircraft design and engineering with a specialization in aircraft information and electronics from Zhejiang University, Hangzhou, China.
-My research interests include flapping-wing robots, soft robotics, and control systems."
+in aircraft design and engineering. My research interests include flapping-wing robots, soft robotics, and control systems."
 url                      : "https://xuyilian.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
