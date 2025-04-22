@@ -11,9 +11,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Research projects
 -----
-**Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly**\\
-Xuyi Lian†, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
-[Arxiv](https://arxiv.org/pdf/2503.06516)|[Video]\\
+**Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly**
+Xuyi Lian†, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆
+[Arxiv](https://arxiv.org/pdf/2503.06516)|[Video]
 **IROS2025 Under Review**
 -----
 
