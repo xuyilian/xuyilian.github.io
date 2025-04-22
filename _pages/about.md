@@ -12,7 +12,7 @@ Research projects
 ======
 ------
 
-Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly\\
+**Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly**\\
 **Xuyi Lian†**, Mingyu Luo†, Te Lin, Chen Qian⋆, and Tiefeng Li⋆\\
 [Arxiv](https://arxiv.org/pdf/2503.06516)|[Video](https://www.youtube.com/watch?v=68d5d4W_XB4)                                                     **IROS 2025 Under Review**\\
 • Aimed to develop a biomimetic robotic butterfly with a compliant mechanism that couples abdominal undulation and wing motion, enhancing overall flight performance, stability, and efficiency.\\
@@ -23,22 +23,22 @@ Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Bio
 
 ------
 
-Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation\\
+**Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation**\\
 Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li\\
 [Arxiv]|[Video]          **IEEE Transaction on Industrial Electronics Under Review**\\
 
 ------
 
-Small-scale Underactuated Flapping Wing Robot Perching with Woodpecker-like Claw\\
+**Small-scale Underactuated Flapping Wing Robot Perching with Woodpecker-like Claw**\\
 **In Preparation**
 
 ------
 
-Concurrent Detection of Vibrations in a Crawling Spider-Inspired Quadruped Robot Utilizing Optical Fiber Sensors\\
+**Concurrent Detection of Vibrations in a Crawling Spider-Inspired Quadruped Robot Utilizing Optical Fiber Sensors**\\
 **In Preparation**
 
 ------
-Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion Getting started\\
+**Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion Getting started**\\
 **In Preparation**
 
 ------
