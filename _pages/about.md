@@ -10,8 +10,6 @@ redirect_from:
 
 Research projects
 ======
-------
-
 <div style="font-size: 20px;">
   <strong>Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Biomimetic Robotic Butterfly</strong>
 </div>  
@@ -29,7 +27,8 @@ Although flapping‑wing aerial vehicles have achieved considerable progress by 
 <div style="font-size: 20px;">
   <strong>Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation</strong>
 </div>  
-Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li\\
+Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li  
+
 [Arxiv]/[Video]  
 **IEEE Transaction on Industrial Electronics Under Review**  
 
