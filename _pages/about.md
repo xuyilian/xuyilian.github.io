@@ -23,13 +23,26 @@ Abdominal Undulation with Compliant Mechanism Improves Flight Performance of Bio
 
 ------
 
-<h3>Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation</h3>\\
+Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation\\
 Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li\\
 [Arxiv]|[Video]          **IEEE Transaction on Industrial Electronics Under Review**\\
 
+------
 
+Small-scale Underactuated Flapping Wing Robot Perching with Woodpecker-like Claw\\
+**In Preparation**
 
-Getting started
+------
+
+Concurrent Detection of Vibrations in a Crawling Spider-Inspired Quadruped Robot Utilizing Optical Fiber Sensors\\
+**In Preparation**
+
+------
+Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion Getting started\\
+**In Preparation**
+
+------
+G
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
