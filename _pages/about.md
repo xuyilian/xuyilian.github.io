@@ -54,12 +54,15 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 
 
 <div style="font-size: 20px;">
-  <strong>Concurrent Detection of Vibrations in a Crawling Spider-Inspired Quadruped Robot Utilizing Optical Fiber Sensors</strong>
+  <strong>Spider-Inspired Robot: Sensitive Vibration Sensing and Adaptive Tracking Using Optical Fiber Sensors</strong>
 </div>  
 
 **In Preparation**
+  <img src="/images/spider1.png" style="width: 35%; height: auto;" />
+  <img src="/images/V.png" style="width: 55%; height: auto;" />
 
   <hr style="border: 1px solid #ccc; margin: 20px 0;" />
+  
 <div style="font-size: 20px;">
   <strong>Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion</strong>
 </div>  
