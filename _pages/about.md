@@ -65,7 +65,7 @@ Chenlu Sheng, **Xuyi Lian**, Xitao Tu, Tiefeng Li, and Chen Qian
 
 
   <img src="/images/spider1.png" style="width: 40%; height: auto;" />
-  <img src="/images/V.png" style="width: 55%; height: auto;" />
+  <img src="/images/V.png" style="width: 60%; height: auto;" />
 
   <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
