@@ -57,14 +57,18 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
   <strong>Spider-Inspired Robot: Sensitive Vibration Sensing and Adaptive Tracking Using Optical Fiber Sensors</strong>
 </div>  
 
+Chenlu Sheng, **Xuyi Lian**, Xitao Tu, Tiefeng Li, and Chen Qian
+
 **In Preparation**
   <img src="/images/spider1.png" style="width: 35%; height: auto;" />
   <img src="/images/V.png" style="width: 55%; height: auto;" />
 
   <hr style="border: 1px solid #ccc; margin: 20px 0;" />
-  
+
 <div style="font-size: 20px;">
   <strong>Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion</strong>
 </div>  
+
+**Xuyi Lian**, Chenlu Sheng, Xitao Tu, Tiefeng Li, and Chen Qian
 
 **In Preparation**
