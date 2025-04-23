@@ -13,51 +13,19 @@ Education
 ======
 * B.S. in Aircraft Design and Engineering, Zhejiang University, 2016 (expected)
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Second Prize in Zhejiang Province, Undergraduate Physics Competition (Dec 2023)
+* Student Innovation and Entrepreneurship Award (2023-2024)
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Core skills: Aircraft structure design, embedded system development, control system analysis, electronic circuit experiments, and fluid dynamics simulations.
+* Programming Skills: C/C++, MATLAB, Python, LaTex, Verilog 
+* Software Tools: AutoCAD, Solidworks, Webots, Abaqus, MATLAB, Qgis Vivado, Modelsim, Photoshop
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Reviewer:IROS
+* Reviewer: IROS
 * Leader of Student Research Training Program
