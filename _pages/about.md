@@ -47,7 +47,7 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 
 Flapping-wing aerial vehicles (FWAVs) have developed rapidly in recent decades, yet their real-world applications remain limited. FWAVs offer advantages over traditional small rotor drones, such as lower noise, non-harmful wing flapping, and the ability to recover from wing collisions, making them ideal for indoor tasks and human-robot interaction. For mission-oriented FWAVs, autonomous takeoff and landing are essential. This paper presents a small-scale underactuated flapping-wing robot with a woodpecker-like claw for perching, inspired by the zygodactyl feet of woodpeckers. The design uses a servo motor, carbon fiber rods, and 3D-printed parts to create the perching mechanism. The robot’s dynamics and control strategies are analyzed, with successful experimental results showing the robot’s ability to perch on various surfaces. The study suggests that this perching mechanism integrated with a 30g flapping-wing robot could be applied to real-world scenarios.
 
-  <img src="/images/Overview-1.png" style="width: 35%; height: auto;" />
+  <img src="/images/Overview-1.png" style="width: 32%; height: auto;" />
   <img src="/images/Kinematic-1.png" style="width: 60%; height: auto;" />
 
 
