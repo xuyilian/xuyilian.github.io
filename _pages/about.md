@@ -29,7 +29,7 @@ Although flapping‑wing aerial vehicles have achieved considerable progress by 
 </div>  
 Chen Qian†, Jiaxi Xing†, Jifu Yan, Mingyu Luo, Shiyu Song, **Xuyi Lian**, Yongchun Fang, Fei Gao, and Tiefeng Li  
 
-[Arxiv](https://www.youtube.com/watch?v=lavNlu5x11Q)/[Video]             
+[Arxiv]/[Video](https://www.youtube.com/watch?v=lavNlu5x11Q)             
 **IEEE Transaction on Industrial Electronics Under Review**  
 
 Current research on attitude and state estimation for flapping‑wing aerial vehicles has largely relied on conventional filters—such as Extended Kalman Filters, Mahony complementary filters, and Madgwick filters—that either suffer degraded performance under the high‑frequency vibrations induced by wing flapping or mitigate these oscillations through cycle‑averaging methods that introduce unacceptable delays for agile maneuvers. This paper therefore presents a novel learning‑based framework for online state estimation in avian‑inspired FWAVs: it first extracts and removes flapping‑induced oscillations from low‑cost MARG sensor data via periodic Gaussian process regression augmented with real‑time FFT and cross‑correlation for accurate phase alignment and sphere k‑means clustering for phase‑based smoothing; it then feeds the resulting oscillation‑free signals into an Extended Kalman Filter together with an internal, cycle‑averaged aerodynamic model derived from Newton–Euler equations to yield accurate, low‑latency attitude and translational estimates; real‑flight experiments under windy conditions demonstrate that this approach significantly outperforms conventional filters by preserving critical transient dynamics and enabling agile, autonomous flapping‑wing flight in complex environments. 
@@ -64,7 +64,7 @@ Chenlu Sheng, **Xuyi Lian**, Xitao Tu, Tiefeng Li, and Chen Qian
 **In Preparation**
 
 
-  <img src="/images/spider1.png" style="width: 35%; height: auto;" />
+  <img src="/images/spider1.png" style="width: 40%; height: auto;" />
   <img src="/images/V.png" style="width: 55%; height: auto;" />
 
   <hr style="border: 1px solid #ccc; margin: 20px 0;" />
@@ -76,3 +76,7 @@ Chenlu Sheng, **Xuyi Lian**, Xitao Tu, Tiefeng Li, and Chen Qian
 **Xuyi Lian**, Chenlu Sheng, Xitao Tu, Tiefeng Li, and Chen Qian
 
 **In Preparation**
+
+
+Course Projects
+------
