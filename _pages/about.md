@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+I am a junior at the School of Aeronautics and Astronautics, Zhejiang University. I started my research work in 2023 and have a strong interest in **flapping-wing vehicles** and **soft robotics**. My research focuses on areas such as **flexible structure optimization**, **multi-modal locomotion**, and **neuro-inspired perception and motion algorithm development**. I am honored to be guided by [Professor Tiefeng Li](https://scholar.google.com/citations?hl=zh-TW&user=vpaskyAAAAAJ) and [Dr. Chen Qian](https://scholar.google.com/citations?hl=zh-TW&user=KWktyPcefrIC). Below are some of the research and course projects I have led or participated in. If you are interested or have any questions about any of these topics, please feel free to contact me. I am also looking for more research opportunities in related fields for my future graduate studies.
 
 Research projects
 ======
