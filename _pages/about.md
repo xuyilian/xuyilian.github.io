@@ -45,6 +45,8 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 
 **In Preparation**  
 
+
+
   <img src="/images/Overview-1.png" style="width: 35%; height: auto;" />
   <img src="/images/Kinematic-1.png" style="width: 60%; height: auto;" />
 
@@ -60,6 +62,8 @@ Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li
 Chenlu Sheng, **Xuyi Lian**, Xitao Tu, Tiefeng Li, and Chen Qian
 
 **In Preparation**
+
+
   <img src="/images/spider1.png" style="width: 35%; height: auto;" />
   <img src="/images/V.png" style="width: 55%; height: auto;" />
 
