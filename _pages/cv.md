@@ -26,7 +26,7 @@ Research Experience
 Research Assistant, Institute of Applied Mechanics, ZJU
 ------
 
-*Mar 2025 - Present*
+*Mar 2025 - Present*  
 **Advisor**: Prof. Tiefeng Li
 
 * Designed bio-inspired structures to realize multimodal functions, such as bird-like grippers and spider legs.
@@ -36,7 +36,7 @@ Research Assistant, Institute of Applied Mechanics, ZJU
 National Student Research Training Program
 ------
 
- *Apr 2024 - Mar 2025*
+ *Apr 2024 - Mar 2025*  
  **Advisor**: Prof. Tiefeng Li
 
  * Designed and fabricated a flapping-wing robot mimicking a butterfly, using a compliant mechanism to improve flight performance.
