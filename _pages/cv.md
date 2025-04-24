@@ -26,13 +26,21 @@ Research Experience
 Research Assistant, Institute of Applied Mechanics, ZJU
 ------
 
-**Advisor**: Prof. Tiefeng Li  (*Mar 2025 - Present*)
+*Mar 2025 - Present*
+**Advisor**: Prof. Tiefeng Li
+
+* Designed bio-inspired structures to realize multimodal functions, such as bird-like grippers and spider legs.
+* Developed trajectory planning and perching algorithms for FWAVs to enable more practical applications.
 
 
 National Student Research Training Program
 ------
 
-**Advisor**: Prof. Tiefeng Li  (*Apr 2024 - Mar 2025*)
+ *Apr 2024 - Mar 2025*
+ **Advisor**: Prof. Tiefeng Li
+
+ * Designed and fabricated a flapping-wing robot mimicking a butterfly, using a compliant mechanism to improve flight performance.
+ * Developed learning-based robust attitude estimation and control strategies for FWAVs featuring oscillatory motion.
 
 
 
