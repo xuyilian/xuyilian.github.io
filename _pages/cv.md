@@ -26,15 +26,13 @@ Research Experience
 Research Assistant, Institute of Applied Mechanics, ZJU
 ------
 
-*Mar 2025 - Present*
-**Advisor**: Prof. Tiefeng Li
+**Advisor**: Prof. Tiefeng Li  *Mar 2025 - Present*
 
 
 National Student Research Training Program
 ------
 
-*Apr 2024 - Mar 2025*
-**Advisor**: Prof. Tiefeng Li
+**Advisor**: Prof. Tiefeng Li  *Apr 2024 - Mar 2025*
 
 
 
