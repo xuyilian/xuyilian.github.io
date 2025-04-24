@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="/images/CV_lianxy.pdf" download>Download</a>
+
+
+
 
 Xuyi (Liam) Lian
 ======
