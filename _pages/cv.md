@@ -11,18 +11,18 @@ redirect_from:
 
 Xuyi (Liam) Lian
 ======
-Aerospace Engineering
-* Email: [liam.lianxy@zju.edu.cn](liam.lianxy@zju.edu.cn)
-* Website: [https://xuyilian.github.io/](https://xuyilian.github.io/)
-* Tel: +86 18858171127
+**Aerospace Engineering**
+* **Email**: [liam.lianxy@zju.edu.cn](liam.lianxy@zju.edu.cn)
+* **Website**: [https://xuyilian.github.io/](https://xuyilian.github.io/)
+* **Tel**: +86 18858171127
 
 Research Experience
 ======
+
 Research Assistant, Institute of Applied Mechanics, ZJU
 ------
 
 *Mar 2025 - Present*
-
 **Advisor**: Prof. Tiefeng Li
 
 
@@ -30,7 +30,6 @@ National Student Research Training Program
 ------
 
 *Apr 2024 - Mar 2025*
-
 **Advisor**: Prof. Tiefeng Li
 
 
@@ -53,5 +52,5 @@ Skills
   
 Service and leadership
 ======
-* Reviewer: IROS
-* Leader of Student Research Training Program
+* Reviewer: *IROS*
+* Leader of National Student Research Training Program
