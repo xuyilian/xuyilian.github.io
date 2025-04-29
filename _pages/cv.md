@@ -8,6 +8,41 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="/images/CV_lianxy.pdf" download>Download</a>
+
+
+
+
+Xuyi (Liam) Lian
+======
+**Aerospace Engineering**
+* **Email**: [liam.lianxy@zju.edu.cn](liam.lianxy@zju.edu.cn)
+* **Website**: [https://xuyilian.github.io/](https://xuyilian.github.io/)
+* **Tel**: +86 18858171127
+
+Research Experience
+======
+
+Research Assistant, Institute of Applied Mechanics, ZJU
+------
+
+*Mar 2025 - Present*  
+**Advisor**: Prof. Tiefeng Li
+
+* Designed bio-inspired structures to realize multimodal functions, such as bird-like grippers and spider legs.
+* Developed trajectory planning and perching algorithms for FWAVs to enable more practical applications.
+
+
+National Student Research Training Program
+------
+
+ *Apr 2024 - Mar 2025*  
+ **Advisor**: Prof. Tiefeng Li
+
+ * Designed and fabricated a flapping-wing robot mimicking a butterfly, using a compliant mechanism to improve flight performance.
+ * Developed learning-based robust attitude estimation and control strategies for FWAVs featuring oscillatory motion.
+
+
 
 Education
 ======
@@ -27,5 +62,5 @@ Skills
   
 Service and leadership
 ======
-* Reviewer: IROS
-* Leader of Student Research Training Program
+* Reviewer: *IROS*
+* Leader of National Student Research Training Program
