@@ -24,6 +24,32 @@ Although flapping‑wing aerial vehicles have achieved considerable progress by 
 
 
   <hr style="border: 1px solid #ccc; margin: 20px 0;" />
+
+<div style="font-size: 20px;">
+  <strong>Spider-Inspired Robot: Sensitive Vibration Sensing and Adaptive Tracking Using Optical Fiber Sensors</strong>
+</div>  
+
+Chenlu Sheng, **Xuyi Lian**, Xitao Tu, Tiefeng Li, and Chen Qian
+
+**In Preparation**
+
+Spider-inspired robots have gained significant attention due to their remarkable ability to sense and respond to environmental stimuli, particularly vibrations. These robots are often used in tasks such as search and rescue, surveillance, and exploration in confined spaces. While existing robots are capable of basic locomotion and environmental interaction, the challenge lies in enhancing their sensitivity to vibrations and adapting their movement in real-time based on environmental feedback.This paper presents a spider-inspired quadruped robot that integrates optical fiber sensors for sensitive vibration detection and adaptive tracking. Drawing inspiration from the vibration-sensitive leg structures of spiders, the robot uses these sensors to detect both environmental vibrations and its own motion, allowing for a more responsive and adaptable system. The study introduces a robust algorithm that processes these vibration signals, enabling the robot to localize vibration sources and adjust its gait accordingly. The experimental results demonstrate the robot’s capability to detect and react to vibrations, improving its ability to navigate dynamic environments. This approach offers valuable insights for developing more efficient and adaptable robots in real-world applications.
+
+  <img src="/images/spider1.png" style="width: 35%; height: auto;" />
+  <img src="/images/V.png" style="width: 60%; height: auto;" />
+
+  <hr style="border: 1px solid #ccc; margin: 20px 0;" />
+
+<div style="font-size: 20px;">
+  <strong>Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion</strong>
+</div>  
+
+**Xuyi Lian**, Chenlu Sheng, Xitao Tu, Tiefeng Li, and Chen Qian
+
+**In Preparation**
+
+  <hr style="border: 1px solid #ccc; margin: 20px 0;" />
+  
 <div style="font-size: 20px;">
   <strong>Periodic Proprioceptive Stimuli Learning and Internal Model Development for Avian-inspired Flapping-wing Flight State Estimation</strong>
 </div>  
@@ -41,7 +67,6 @@ Current research on attitude and state estimation for flapping‑wing aerial veh
 <div style="font-size: 20px;">
   <strong>Small-scale Underactuated Flapping Wing Robot Perching with Woodpecker-like Claw</strong>
 </div>  
-Chen Qian, **Xuyi Lian**, Shiyu Song, Jifu Yan, Yongchun Fang, and Tiefeng Li  
 
 **In Preparation**  
 
@@ -54,28 +79,6 @@ Flapping-wing aerial vehicles have developed rapidly in recent decades, yet thei
   <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
 
-
-<div style="font-size: 20px;">
-  <strong>Spider-Inspired Robot: Sensitive Vibration Sensing and Adaptive Tracking Using Optical Fiber Sensors</strong>
-</div>  
-
-Chenlu Sheng, **Xuyi Lian**, Xitao Tu, Tiefeng Li, and Chen Qian
-
-**In Preparation**
-
-
-  <img src="/images/spider1.png" style="width: 35%; height: auto;" />
-  <img src="/images/V.png" style="width: 60%; height: auto;" />
-
-  <hr style="border: 1px solid #ccc; margin: 20px 0;" />
-
-<div style="font-size: 20px;">
-  <strong>Learning-based Attitude Estimation and CPG Control for a Robotic Butterfly Featuring Significant Oscillatory Motion</strong>
-</div>  
-
-**Xuyi Lian**, Chenlu Sheng, Xitao Tu, Tiefeng Li, and Chen Qian
-
-**In Preparation**
 
 
 Course Projects
